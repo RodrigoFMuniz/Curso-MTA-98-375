@@ -11,7 +11,7 @@
   
   * Ferramentas para desenvolvedores
     * Developer tools dos browsers
-      <!-- * :flags: **Elements**: Visualizar a estrutura do código, já renderizado, HTML, CSS e Javascript.
+      * :flags: **Elements**: Visualizar a estrutura do código, já renderizado, HTML, CSS e Javascript.
       * :computer: **Console**: Executar funções javascript no DOM do site
       * :postbox: **Sources**: Acesso aos recursos carregados no site 
       * :open_file_folder: **Network**: Monitora todas as requisições que a página realiza.
@@ -20,7 +20,7 @@
       * :camera: **Memory**: Utilizado para monitorar toda a alocação de memória da app
       * :floppy_disk:  **Application**: Armazenamento de dados em local storage, session storage, cookies e cache. Além de indexedBD , web sql e PWAs. 
       * :lock: **Security**: Verifica segurança, dados de certificado digital e informações sobre o certificado.
-      * :trophy: **Lighthouse**: Auditoria de performance do site. -->
+      * :trophy: **Lighthouse**: Auditoria de performance do site.
   
   * Semântica
       ```
