@@ -1,7 +1,7 @@
 # Curso HTML para MTA 98-375
 ### Básico
-  * O que é HTML?
-  * Navegadores
+  * ##### O que é HTML?
+  * ##### Navegadores
     * **Google**
     * **Firefox**
     * Safari
@@ -9,8 +9,8 @@
     * **Microsoft Edge**
     * Opera
   
-  * Ferramentas para desenvolvedores
-    * Developer tools dos browsers
+  * ##### Ferramentas para desenvolvedores
+    * ###### Developer tools dos browsers
       * :flags: **Elements**: Visualizar a estrutura do código, já renderizado, HTML, CSS e Javascript.
       * :computer: **Console**: Executar funções javascript no DOM do site
       * :postbox: **Sources**: Acesso aos recursos carregados no site 
@@ -22,7 +22,7 @@
       * :lock: **Security**: Verifica segurança, dados de certificado digital e informações sobre o certificado.
       * :trophy: **Lighthouse**: Auditoria de performance do site.
   
-  * Semântica
+  * ##### Semântica
       ```
       <!-- Tipo de documento -->
       <!DOCTYPE html>
